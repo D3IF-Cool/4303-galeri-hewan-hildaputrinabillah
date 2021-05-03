@@ -5,5 +5,5 @@ import org.d3if2086.galerihewan.R
 class Hewan (
     val nama: String,
     val namaLatin: String,
-    val imageResId: Int = R.drawable.angsa
+    val imageId: String
 )
